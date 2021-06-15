@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/pliki">
+        <file>zdjecia/mapa.png</file>
+        <file>zdjecia/humidity.png</file>
+        <file>zdjecia/ilosc_opadow.png</file>
+        <file>zdjecia/pressure.png</file>
+        <file>zdjecia/temperature.png</file>
+        <file>zdjecia/wind_direction.png</file>
+        <file>zdjecia/wind_speed.png</file>
+        <file>zdjecia/clouds.png</file>
+        <file>zdjecia/darkcloud.png</file>
+        <file>zdjecia/fewclouds.png</file>
+        <file>zdjecia/l.png</file>
+        <file>zdjecia/rain.png</file>
+        <file>zdjecia/slonce.png</file>
+        <file>zdjecia/th.png</file>
+        <file>zdjecia/direction_e.png</file>
+        <file>zdjecia/direction_N.png</file>
+        <file>zdjecia/direction_NE.png</file>
+        <file>zdjecia/direction_NW.png</file>
+        <file>zdjecia/direction_s.png</file>
+        <file>zdjecia/direction_SE.png</file>
+        <file>zdjecia/direction_SW.png</file>
+        <file>zdjecia/direction_W.png</file>
+    </qresource>
+</RCC>
